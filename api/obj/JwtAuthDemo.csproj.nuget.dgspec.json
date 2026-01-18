@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shubh\\JwtAuthDemo\\JwtAuthDemo.csproj": {}
+    "C:\\Users\\shubh\\JwtAuthDemo\\api\\JwtAuthDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shubh\\JwtAuthDemo\\JwtAuthDemo.csproj": {
+    "C:\\Users\\shubh\\JwtAuthDemo\\api\\JwtAuthDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shubh\\JwtAuthDemo\\JwtAuthDemo.csproj",
+        "projectUniqueName": "C:\\Users\\shubh\\JwtAuthDemo\\api\\JwtAuthDemo.csproj",
         "projectName": "JwtAuthDemo",
-        "projectPath": "C:\\Users\\shubh\\JwtAuthDemo\\JwtAuthDemo.csproj",
+        "projectPath": "C:\\Users\\shubh\\JwtAuthDemo\\api\\JwtAuthDemo.csproj",
         "packagesPath": "C:\\Users\\shubh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shubh\\JwtAuthDemo\\obj\\",
+        "outputPath": "C:\\Users\\shubh\\JwtAuthDemo\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shubh\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -46,6 +46,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.23, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[10.0.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
